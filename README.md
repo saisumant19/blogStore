@@ -1,2 +1,2 @@
-# youtube2022
-Season 2 on Lama Dev
+# Blog Store
+Full-Stack blog application
